@@ -1,5 +1,5 @@
 # Hi, I'm Tejaswi Devarapalli 👋
-**AI/ML & Full-Stack Developer | Cloud & Data Enthusiast**
+**Versatile Software Engineer | Full Stack Developer | AI & ML Enthusiast | UI/UX Designer**
 
 Passionate about building intelligent applications integrating AI/ML, web technologies, and data-driven solutions. Experienced in Python, Java, React, Node.js, Flask, and deploying machine learning models for real-world applications.
 
@@ -8,27 +8,82 @@ Passionate about building intelligent applications integrating AI/ML, web techno
 ## 🛠️ Skills
 **Programming Languages:** Python, Java, JavaScript, C (fundamentals)  
 **Web & Frameworks:** React, Node.js, Express, Flask, Streamlit  
-**AI/ML & Data:** TensorFlow, OpenCV, YOLO, Machine Learning, Data Analysis  
-**Databases:** MongoDB, SQL, MongoDB Atlas  
-**Tools & Platforms:** Git, Docker, AWS (basics)
+**AI/ML & Data:** TensorFlow, OpenCV, Pandas, NumPy, Matplotlib, Scikit-learn  
+**Databases:** MongoDB, SQL  
+**Tools & Platforms:** VS Code, Git & GitHub, Postman, Jupyter Notebooks, Google Colab, AWS, Figma, StarUML
 
 ---
 
 ## 💼 Internships
 - **AI/ML Virtual Intern** – AWS Academy (Jan 2025 – Mar 2025)  
-  Completed cloud-based ML projects and workflows.
+  Built, trained, and evaluated ML models on real-world datasets using Python and TensorFlow. Gained hands-on experience in end-to-end AI/ML workflows, deploying scalable and efficient machine learning solutions.
 
 - **Virtual Intern – AI/ML** – Infosys Virtual Internship 6.0 (Jan 2025 – Mar 2025)  
-  Built, trained, and evaluated ML models on real-world datasets.
+  Worked with datasets across finance, climate, and healthcare. Cleaned, processed, and analyzed data using Python, NumPy, and Pandas. Created insightful visualizations with Matplotlib, Seaborn, Plotly, and Tableau, transforming complex data into clear, interactive dashboards.
 
 ---
 
-## 🚀 Projects
-- **Cartoonify Web App** – Built a web app to cartoonify images using edge detection and bilateral filtering with Python, OpenCV, Flask, and Jinja2. Users can upload and instantly receive high-quality, visually appealing outputs.
+# My Top Projects
 
-- **Alert Orchestration Platform** – Full-stack alert management system integrating monitoring tools, APIs, and message queues using React, Node.js, Express, and AWS S3. Provides KPI dashboards, incident grouping, and predictive insights to reduce manual effort and SLA breaches.
+Here are some of my key projects demonstrating skills in AI/ML, full-stack development, and web design.
 
-- *(Optional: add 1–2 more projects like your Crop Monitoring or Bus Scheduling projects)*
+---
+
+## 1. Crop Monitoring Using Computer Vision
+**Description:**  
+Utilizes image processing to detect pests, diseases, and nutrient issues, helping farmers improve crop health and yield.
+
+**Technologies:**  
+JavaScript, Python, React, Node.js, Express, OpenCV
+
+**Links:**  
+- [Live Demo](https://ai-tools-hub-xvgm.vercel.app/)  
+- [GitHub Repository](https://github.com/Twilight-88/CropMonitoring)  
+- [Figma Prototype](https://www.figma.com/proto/2ZKDG2mZkjUGHxb5wL2E10/AgriVision?node-id=0-1&t=vkNJI94dkPCAt8kH-1)
+
+---
+
+## 2. Alert Whisperer
+**Description:**  
+Working prototype of an intelligent, role-based alert orchestration platform for monitoring and managing alerts in real-time.
+
+**Technologies:**  
+React.js, Node.js, Express.js, AWS S3, JavaScript, HTML, CSS
+
+**Links:**  
+- [Live Demo](http://alert-whisperer-frontend-728925775278.s3-website-us-east-1.amazonaws.com/)  
+- [GitHub Repository](https://github.com/Abhishek200416/Alert-Whisperer)  
+- [Demo Video](https://drive.google.com/file/d/1s4Ck980rwkiUgDDxFBrAxaqY8EdMuR4j/view?usp=sharing)
+
+---
+
+## 3. Cartoonify
+**Description:**  
+Web app to turn photos into cartoon-style art using OpenCV, served via Flask.
+
+**Technologies:**  
+Flask (Python), OpenCV, HTML, CSS, JS, Jinja2, Docker
+
+**Links:**  
+- [Live Demo](https://cartoonify-1-maex.onrender.com)  
+- [GitHub Repository](https://github.com/Twilight-88/Cartoonify_Image)
+
+---
+
+## 4. Culinary Delight
+**Description:**  
+A restaurant website offering menus, table reservations, and messaging features, with diverse dining options and country-specific menus.  
+
+**Login Details:**  
+- Username: `guest_access`  
+- Password: `welcome123`
+
+**Technologies:**  
+HTML, CSS, JavaScript, Python (Flask)
+
+**Links:**  
+- [Live Demo](https://teja88.pythonanywhere.com/)  
+- [GitHub Repository](https://github.com/Twilight-88/culinary-delight)
 
 ---
 
@@ -40,4 +95,4 @@ Passionate about building intelligent applications integrating AI/ML, web techno
 ## 📫 Connect with Me
 - [Portfolio](https://portfolio-tejaswidevarapalli.vercel.app/)  
 - [LinkedIn](https://www.linkedin.com/in/tejaswidevarapalli/)  
-- [Email](mailto:delight.cs50@gmail.com)
+- [Email](mailto:tejaswi.devarapalli88@gmail.com)
