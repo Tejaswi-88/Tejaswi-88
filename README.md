@@ -52,7 +52,7 @@ React.js, Node.js, Express.js, AWS S3, JavaScript, HTML, CSS
 
 **Links:**  
 - [Live Demo](http://alert-whisperer-frontend-728925775278.s3-website-us-east-1.amazonaws.com/)  
-- [GitHub Repository](https://github.com/Abhishek200416/Alert-Whisperer)  
+- [GitHub Repository](https://github.com/Tejaswi-88/Alert-Wisperer) 
 - [Demo Video](https://drive.google.com/file/d/1s4Ck980rwkiUgDDxFBrAxaqY8EdMuR4j/view?usp=sharing)
 
 ---
