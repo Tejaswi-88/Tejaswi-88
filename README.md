@@ -89,7 +89,7 @@ HTML, CSS, JavaScript, Python (Flask)
 
 ## 🏆 Achievements
 - **SuperOps Global Hackathon (2025) — Grand Finale Finalist (Top 0.37% of 10,430 teams)**
-- Recognized by SuperOps.ai[Certificate/Link](https://www.superops.ai/) for demonstrating exceptional technical skills and innovative problem-solving.
+- Recognized by [SuperOps.ai](https://www.superops.ai/) for demonstrating exceptional technical skills and innovative problem-solving.
 - Selected as one of 11 finalist teams under the theme Operational Efficiency for MSPs and IT Teams (39 finalists across 4 themes).
 - Presented a Grand Finale pitch focused on improving MSP and IT team operations through intelligent alert management and automation-driven efficiency enhancements.
 
