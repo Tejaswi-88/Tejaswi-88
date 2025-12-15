@@ -6,7 +6,7 @@ Passionate about building intelligent applications integrating AI/ML, web techno
 ---
 
 ## 🛠️ Skills
-**Programming Languages:** Python, Java, JavaScript, C  
+**Programming Languages:** Python, Java, JavaScript
 **Web & Frameworks:** React, Node.js, Express, Flask, Streamlit  
 **AI/ML & Data:** TensorFlow, OpenCV, Pandas, NumPy, Matplotlib, Scikit-learn  
 **Databases:** MongoDB, SQL  
